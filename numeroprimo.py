@@ -8,4 +8,4 @@ for divisor in range(1, numero):
 if divisores > 1:
   print("O Numero não é primo")
 else:
-  print("O Numero é primo")
+  print("O Numero é Primo")
